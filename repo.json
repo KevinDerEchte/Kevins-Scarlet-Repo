@@ -1,0 +1,17 @@
+{
+    "META": {
+        "repoName": "Kevin's IPA Repo",
+        "repoIcon": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Parabola_Gnu_Linux-libre_icon.svg"
+    },
+    "Emulators": [
+        {
+            "name": "PPSSPP",
+            "version": "1.17.1",
+            "icon": "https://cdn2.steamgriddb.com/icon/2ba3c4b9390cc43edb94e42144729d33/32/256x256.png",
+            "down": "https://zjueducn-my.sharepoint.com/personal/21021161_zju_edu_cn/_layouts/15/download.aspx?UniqueId=bd4510ac-5ee8-4302-963e-1e816836ddae&Translate=false&tempauth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfZGlzcGxheW5hbWUiOiJPbmVEcml2ZSBmb3IgQVBJIiwiYXBwaWQiOiI3OGQ0ZGMzNS03ZTQ2LTQyYzYtOTAyMy0yZDM5MzE0NDMzYTUiLCJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvemp1ZWR1Y24tbXkuc2hhcmVwb2ludC5jb21AZWI1ZmMwZjQtMjE2MS00MGQ4LTg0OTItNTE1OTQyNDQ5NzkzIiwiY2FjaGVrZXkiOiIwaC5mfG1lbWJlcnNoaXB8MTAwMzIwMDA1YzM4YmM1ZkBsaXZlLmNvbSIsImNpZCI6IjZBNG9xOWJLMGtlM0VxL0N0ZkErNmc9PSIsImVuZHBvaW50dXJsIjoiM2MwYTJKLzVuVFkyY0Z4TUxsb2wxMEVQZmNYWENaWGVoejA0bVdUZDN2TT0iLCJlbmRwb2ludHVybExlbmd0aCI6IjE1MSIsImV4cCI6IjE3MTM3MDcyNzAiLCJmYW1pbHlfbmFtZSI6IldhbmciLCJnaXZlbl9uYW1lIjoiUGx1dG8iLCJpcGFkZHIiOiIyMC4xOTAuMTQxLjQzIiwiaXNsb29wYmFjayI6IlRydWUiLCJpc3MiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAiLCJuYmYiOiIxNzEzNzAzNjcwIiwicHVpZCI6IjEwMDMyMDAwNUMzOEJDNUYiLCJzY3AiOiJhbGxmaWxlcy53cml0ZSBhbGxwcm9maWxlcy5yZWFkIiwic2l0ZWlkIjoiTWpRMk1ETXlOekV0Tm1JMlpDMDBZakpsTFdJMk0yTXRPRGd3TXpoa05HWTBZakZoIiwidGlkIjoiZWI1ZmMwZjQtMjE2MS00MGQ4LTg0OTItNTE1OTQyNDQ5NzkzIiwidHQiOiIyIiwidXBuIjoiMjEwMjExNjFAemp1LmVkdS5jbiIsInZlciI6Imhhc2hlZHByb29mdG9rZW4ifQ.XGGpdu6TooHPzDbUIQ2dbNG4svZw-SimER7OCb-oF1s&ApiVersion=2.0",
+            "category": "Emulator",
+            "banner": "https://cdn2.steamgriddb.com/logo_thumb/e242660df1b69b74dcc7fde711f924ff.png",
+            "description": "PPSSPP can run your PSP games on your PC or phone in full HD resolution or even higher. It can also upscale textures to make them sharper, and you can enable post-processing shaders to adjust color and brightness the way you like, and other effects."
+        }
+    ]
+}
