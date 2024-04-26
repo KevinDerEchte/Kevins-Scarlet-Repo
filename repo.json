@@ -14,11 +14,8 @@
             "changelog": "⦁ Fixed cover art system\n ⦁ Fixed compilation errors",
             "description": "iNDS is a powerful Nintendo DS emulator derived from the original nds4ios! Originally only for jailbroken devices, it has found its way to the non-jailbroken scene so you may enjoy your favorite DS games on your favorite device!",
             "screenshots": [
-                "https://raw.githubusercontent.com/KevinDerEchte/Kevins-Scarlet-Repo/main/resources/ppsspp/IMG_1180.png",
-                "https://raw.githubusercontent.com/KevinDerEchte/Kevins-Scarlet-Repo/main/resources/ppsspp/IMG_1181.png",
-                "https://raw.githubusercontent.com/KevinDerEchte/Kevins-Scarlet-Repo/main/resources/ppsspp/IMG_1182.png",
-                "https://raw.githubusercontent.com/KevinDerEchte/Kevins-Scarlet-Repo/main/resources/ppsspp/IMG_1183.png",
-                "https://raw.githubusercontent.com/KevinDerEchte/Kevins-Scarlet-Repo/main/resources/ppsspp/IMG_1184.png"
+                "https://raw.githubusercontent.com/KevinDerEchte/Kevins-Scarlet-Repo/main/resources/iNDS/IMG_1189.jpeg",
+                "https://raw.githubusercontent.com/KevinDerEchte/Kevins-Scarlet-Repo/main/resources/iNDS/IMG_1190.jpeg"
             ],
             "contact": {
                 "web": "https://github.com/iNDS-Team/iNDS",
