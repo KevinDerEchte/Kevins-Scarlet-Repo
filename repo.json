@@ -6,13 +6,13 @@
     "Emulators": [
         {
             "name": "iNDS",
-            "version": "1.17.1",
-            "dev": "Henrik Rydgård",
-            "icon": "https://cdn2.steamgriddb.com/icon/2ba3c4b9390cc43edb94e42144729d33/32/256x256.png",
+            "version": "1.10.8",
+            "dev": "iNDS Team",
+            "icon": "https://avatars.githubusercontent.com/u/39138523?s=200&v=4",
             "down": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
             "category": "Emulator",
-            "changelog": "⦁ Fixed green rendering errors on some PowerVR GPUs\n ⦁ Release all held keys on pause to avoid 'stuck keys' after unpausing or in run-behind-pause\n ⦁ UI fixes\n ⦁ Update libchdr with zstd support, warn the user about bad CHDs\n ⦁ Add workaround for AdHoc mode in Resistance\n ⦁ Fix graphics in Tokimeki Memorial 4\n ⦁ Fix crash in UFC 2010 on Mali GPUs\n ⦁ Temporarily disable MSAA on Adreno GPUs due to crashing\n ⦁ Fixed some crashes and optimized the game metadata cache\n ⦁ Additional crashfixes and similar\n ⦁ Fixed playback of frame dumps with Vulkan\n ⦁ Volume slider added for RetroAchievements sounds",
-            "description": "PPSSPP can run your PSP games on your PC or phone in full HD resolution or even higher. It can also upscale textures to make them sharper, and you can enable post-processing shaders to adjust color and brightness the way you like, and other effects.",
+            "changelog": "⦁ Fixed cover art system\n ⦁ Fixed compilation errors",
+            "description": "iNDS is a powerful Nintendo DS emulator derived from the original nds4ios! Originally only for jailbroken devices, it has found its way to the non-jailbroken scene so you may enjoy your favorite DS games on your favorite device!",
             "screenshots": [
                 "https://raw.githubusercontent.com/KevinDerEchte/Kevins-Scarlet-Repo/main/resources/ppsspp/IMG_1180.png",
                 "https://raw.githubusercontent.com/KevinDerEchte/Kevins-Scarlet-Repo/main/resources/ppsspp/IMG_1181.png",
@@ -21,8 +21,8 @@
                 "https://raw.githubusercontent.com/KevinDerEchte/Kevins-Scarlet-Repo/main/resources/ppsspp/IMG_1184.png"
             ],
             "contact": {
-                "web": "https://www.ppsspp.org",
-                "twitter": "https://twitter.com/PPSSPP_emu"
+                "web": "https://github.com/iNDS-Team/iNDS",
+                "twitter": "https://twitter.com/indsapp"
             }
         },
         {
