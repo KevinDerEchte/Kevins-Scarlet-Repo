@@ -50,7 +50,6 @@
             "changelog": "⦁ Fixed green rendering errors on some PowerVR GPUs\n ⦁ Release all held keys on pause to avoid 'stuck keys' after unpausing or in run-behind-pause\n ⦁ UI fixes\n ⦁ Update libchdr with zstd support, warn the user about bad CHDs\n ⦁ Add workaround for AdHoc mode in Resistance\n ⦁ Fix graphics in Tokimeki Memorial 4\n ⦁ Fix crash in UFC 2010 on Mali GPUs\n ⦁ Temporarily disable MSAA on Adreno GPUs due to crashing\n ⦁ Fixed some crashes and optimized the game metadata cache\n ⦁ Additional crashfixes and similar\n ⦁ Fixed playback of frame dumps with Vulkan\n ⦁ Volume slider added for RetroAchievements sounds",
             "description": "PPSSPP can run your PSP games on your PC or phone in full HD resolution or even higher. It can also upscale textures to make them sharper, and you can enable post-processing shaders to adjust color and brightness the way you like, and other effects.",
             "screenshots": [
-                "https://raw.githubusercontent.com/KevinDerEchte/Kevins-Scarlet-Repo/main/resources/ppsspp/IMG_1180.png",
                 "https://raw.githubusercontent.com/KevinDerEchte/Kevins-Scarlet-Repo/main/resources/ppsspp/IMG_1181.png",
                 "https://raw.githubusercontent.com/KevinDerEchte/Kevins-Scarlet-Repo/main/resources/ppsspp/IMG_1182.png",
                 "https://raw.githubusercontent.com/KevinDerEchte/Kevins-Scarlet-Repo/main/resources/ppsspp/IMG_1183.png",
