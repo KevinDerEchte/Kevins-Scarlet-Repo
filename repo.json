@@ -64,11 +64,11 @@
             "name": "Play!",
             "version": "0.64",
             "dev": "Purei",
-            "icon": "https://dl.flathub.org/media/org/libretro/RetroArch/2071c491dfa41258bc8a38fcb475422b/icons/128x128/org.libretro.RetroArch.png",
+            "icon": "https://raw.githubusercontent.com/KevinDerEchte/Kevins-Scarlet-Repo/main/resources/play!/IMG_1196.png",
             "down": "https://purei.org/downloads/play/stable/0.64/Play.ipa",
             "category": "Emulator",
-            "changelog": "⦁ Fix widget on IOS17\n ⦁ Exit instead of crash on some errors\n ⦁ Fix ios-vulkan-ppsspp\n ⦁ Enable HDR support on IOS\n ⦁ Add option to disable respecting silent mode\n ⦁ Allow ignoring safe area (fullscreen over notch)\n ⦁ Default to not enabling keyboard gamepad\n ⦁ Fix XRGB8888 in GL driver\n ⦁ Allow changing the app icon\n ⦁ Add HAVE_ACCESSIBILITY to iOS builds\n ⦁ Create GL context as GLES3 to fix some rendering performance problems",
-            "description": "RetroArch is a frontend for emulators, game engines and media players.\n \n Among other things, it enables you to run classic games on a wide range of computers and consoles through its slick graphical interface. Settings are also unified so configuration is done once and for all.\n \n In addition to this, you are able to run original game discs (CDs) from RetroArch.\n \n RetroArch has advanced features like shaders, netplay, rewinding, next-frame response times, runahead, machine translation, blind accessibility features, and more!",
+            "changelog": "⦁ Preliminary Namco System 256 support\n ⦁ Added drive and drum support for select Namco System 246/256 games\n ⦁ Compatibility improvements: Shadow Tower Abyss improved its status, other hanging games were fixed\n ⦁ Some minor optimizations",
+            "description": "Play! is a PlayStation2 emulator for Windows, macOS, UNIX, Android, iOS & web browser platforms.",
             "screenshots": [
                 "https://raw.githubusercontent.com/KevinDerEchte/Kevins-Scarlet-Repo/main/resources/ppsspp/IMG_1180.png",
                 "https://raw.githubusercontent.com/KevinDerEchte/Kevins-Scarlet-Repo/main/resources/ppsspp/IMG_1181.png",
@@ -77,8 +77,8 @@
                 "https://raw.githubusercontent.com/KevinDerEchte/Kevins-Scarlet-Repo/main/resources/ppsspp/IMG_1184.png"
             ],
             "contact": {
-                "web": "https://www.retroarch.com",
-                "twitter": "https://twitter.com/libretro"
+                "web": "https://purei.org",
+                "twitter": "https://twitter.com/"
             }
         },
     ]
