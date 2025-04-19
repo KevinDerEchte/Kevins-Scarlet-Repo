@@ -1,0 +1,26 @@
+{
+  "name": "Juss",
+  "identifier": "com.Juss.app",
+  "apps": [
+    {
+      "beta": false,
+      "name": "SideStore",
+      "bundleIdentifier": "com.SideStore.app",
+      "developerName": "SideStore",
+      "subtitle": "SideStore",
+      "version": "v1",
+      "versionDate": "2024-10-23T15:39:00+02:00",
+      "versionDescription": "SideStore",
+      "downloadURL": "https://github.com/sidestore/sidestore/releases/latest/download/sidestore.ipa",
+      "localizedDescription": "N/A",
+      "iconURL": "https://shorturl.at/ZvaFE",
+      "tintColor": "9b54fd",
+      "size": 7885887,
+      "screenshotURLs": [
+        "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot1.png",
+        "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot2.png",
+        "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot3.png"
+      ]
+    }
+  ]
+}
